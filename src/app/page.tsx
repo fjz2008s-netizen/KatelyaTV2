@@ -72,7 +72,7 @@ const BottomKatelyaLogo = () => {
 
 
 <div>💝💝💝
-<a href="https://cloudflare.com/" rel="noopener noreferrer" target="_blank">赛博菩萨</a>；
+<a href="https://dash.cloudflare.com/" rel="noopener noreferrer" target="_blank">赛博菩萨</a>；
   <a href="https://github.com/" rel="noopener noreferrer" target="_blank">小黄人</a>；
   <a href="https://www.cloudns.net/" rel="noopener noreferrer" target="_blank">CloudNS</a>；
   <a href="https://account.proton.me/mail" rel="noopener noreferrer" target="_blank">Proton Mail</a>；💝💝💝
